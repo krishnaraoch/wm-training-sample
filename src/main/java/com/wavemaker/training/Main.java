@@ -1,6 +1,6 @@
 package com.wavemaker.training;
 
-import com.wavemaker.training.dao.StudioDAO;
+import com.wavemaker.training.db.dao.StudioDAO;
 import com.wavemaker.training.db.model.Student;
 
 import java.util.List;

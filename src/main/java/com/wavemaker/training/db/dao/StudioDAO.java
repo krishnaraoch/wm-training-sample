@@ -1,4 +1,4 @@
-package com.wavemaker.training.dao;
+package com.wavemaker.training.db.dao;
 
 
 import com.wavemaker.training.db.connection.MySQLConnectionUtility;
